@@ -22,3 +22,7 @@ Main Mod: bs4 urllib3...
 
 Warning : Please do not use it until you are under eighteen. Refer to other examples of reptiles.
 
+感谢目标源，请各位使用的时候不要太狠给点  Sleep(3)
+
+代号: 采田号挖掘机
+目标：锄禾日当午
